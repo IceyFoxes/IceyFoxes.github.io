@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Testing
-date: 2018-05-03 12:34:27 +0100
-categories: [test]
-tags: [test]
+date: 2024-01-01 12:00:00 +0100
 author: Zhang Li Kevin
 ---
 
@@ -13,19 +11,7 @@ author: Zhang Li Kevin
 
 test
 
-test
-
-test
-
-test
-
-test
-
-test
 
 # test 2
 
 I'm a progammer. I've always wanted to have a personal website to showcase my projects and share my thoughts. I've looked into various blogging platforms like [Wordpress](https://wordpress.com/), [Medium](https://medium.com/), [Substack](https://substack.com), and [Ghost](https://ghost.org/). But, I chose Github Pages with Jekyll because I wanted to have:
-1. Full control over my blog and I wanted to customize it to my taste. 
-2. A blog that is free and doesn't require me to pay for hosting. 
-3. A blog that is simple, fast and easy to maintain doesn't require me to spend hours to configure it.
